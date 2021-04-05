@@ -1,3 +1,4 @@
+console.log('Weather-app In added to github!')
 const geocode = require('./utils/geocode')
 const forecast = require('./utils/forecast')
 
